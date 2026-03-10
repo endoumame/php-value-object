@@ -1,17 +1,17 @@
 # PHP Value Object
 
-[![Packagist Version](https://img.shields.io/packagist/v/endou-mame/php-value-object)](https://packagist.org/packages/endou-mame/php-value-object)
-[![PHP Version](https://img.shields.io/packagist/php-v/endou-mame/php-value-object)](https://packagist.org/packages/endou-mame/php-value-object)
-[![PHPStan](https://github.com/endou-mame/php-value-object/actions/workflows/phpstan.yml/badge.svg)](https://github.com/endou-mame/php-value-object/actions/workflows/phpstan.yml)
-[![Documentation](https://github.com/endou-mame/php-value-object/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/endou-mame/php-value-object/actions/workflows/deploy-docs.yml)
-[![License](https://img.shields.io/packagist/l/endou-mame/php-value-object)](https://github.com/endou-mame/php-value-object/blob/main/LICENSE)
+[![Packagist Version](https://img.shields.io/packagist/v/endoumame/php-value-object)](https://packagist.org/packages/endoumame/php-value-object)
+[![PHP Version](https://img.shields.io/packagist/php-v/endoumame/php-value-object)](https://packagist.org/packages/endoumame/php-value-object)
+[![PHPStan](https://github.com/endoumame/php-value-object/actions/workflows/phpstan.yml/badge.svg)](https://github.com/endoumame/php-value-object/actions/workflows/phpstan.yml)
+[![Documentation](https://github.com/endoumame/php-value-object/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/endoumame/php-value-object/actions/workflows/deploy-docs.yml)
+[![License](https://img.shields.io/packagist/l/endoumame/php-value-object)](https://github.com/endoumame/php-value-object/blob/main/LICENSE)
 
 不変性、型安全性、自己検証を持つドメイン値オブジェクトを提供する PHP ライブラリです。
 
 ## インストール
 
 ```bash
-composer require endou-mame/php-value-object
+composer require endoumame/php-value-object
 ```
 
 ## 使用例
@@ -47,7 +47,7 @@ $code = $result
 
 ## ドキュメント
 
-詳細なガイドと API リファレンスは [ドキュメントサイト](https://endou-mame.github.io/php-value-object/) を参照してください。
+詳細なガイドと API リファレンスは [ドキュメントサイト](https://endoumame.github.io/php-value-object/) を参照してください。
 
 ## 要件
 

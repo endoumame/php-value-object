@@ -1,6 +1,6 @@
 # Result 型との連携
 
-PHP Value Object ライブラリは [php-monad](https://github.com/endou-mame/php-monad) ライブラリの Result 型と密接に連携しています。
+PHP Value Object ライブラリは [php-monad](https://github.com/endoumame/php-monad) ライブラリの Result 型と密接に連携しています。
 
 ## Result 型の基本
 
@@ -263,4 +263,4 @@ $emailOrNull = $option->unwrapOrNull();
 ## 関連
 
 - [コンセプト - Result 型によるエラーハンドリング](/guide/concepts#result-型によるエラーハンドリング)
-- [php-monad ドキュメント](https://github.com/endou-mame/php-monad)
+- [php-monad ドキュメント](https://github.com/endoumame/php-monad)

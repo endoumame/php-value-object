@@ -1,9 +1,9 @@
 {
-    "name": "endou-mame/php-value-object",
+    "name": "endoumame/php-value-object",
     "description": "📦 The PHP Value Object library offers immutable, type-safe, and self-validating objects to model domain values using the Value Object pattern.",
     "require": {
         "php": ">=8.4",
-        "endou-mame/php-monad": "^1.0"
+        "endoumame/php-monad": "^1.0"
     },
     "type": "library",
     "license": "MIT",
@@ -21,12 +21,12 @@
     "authors": [
         {
             "name": "Kakiuchi Shigenao",
-            "email": "87973394+endou-mame@users.noreply.github.com"
+            "email": "87973394+endoumame@users.noreply.github.com"
         }
     ],
     "minimum-stability": "stable",
     "require-dev": {
-        "endou-mame/php-cs-fixer-config": "~8.4.4",
+        "endoumame/php-cs-fixer-config": "~8.4.4",
         "phpunit/php-code-coverage": "^11.0",
         "phpunit/phpunit": "^11.3",
         "phpstan/phpstan": "^2.1",

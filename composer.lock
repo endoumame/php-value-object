@@ -7,16 +7,16 @@
     "content-hash": "986c9f31bc9a063076b3c4cb868efe2f",
     "packages": [
         {
-            "name": "endou-mame/php-monad",
+            "name": "endoumame/php-monad",
             "version": "v1.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/endou-mame/php-monad.git",
+                "url": "https://github.com/endoumame/php-monad.git",
                 "reference": "b1c24b2ba3c62b98511503a05fdd5314a704a7c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/endou-mame/php-monad/zipball/b1c24b2ba3c62b98511503a05fdd5314a704a7c4",
+                "url": "https://api.github.com/repos/endoumame/php-monad/zipball/b1c24b2ba3c62b98511503a05fdd5314a704a7c4",
                 "reference": "b1c24b2ba3c62b98511503a05fdd5314a704a7c4",
                 "shasum": ""
             },
@@ -24,7 +24,7 @@
                 "php": ">=8.3"
             },
             "require-dev": {
-                "endou-mame/php-cs-fixer-config": "~8.4.4",
+                "endoumame/php-cs-fixer-config": "~8.4.4",
                 "jiripudil/phpstan-sealed-classes": "^1.2",
                 "phpstan/extension-installer": "^1.4",
                 "phpstan/phpstan": "^1.12",
@@ -48,13 +48,13 @@
             "authors": [
                 {
                     "name": "Kakiuchi Shigenao",
-                    "email": "87973394+endou-mame@users.noreply.github.com"
+                    "email": "87973394+endoumame@users.noreply.github.com"
                 }
             ],
             "description": "📦 Implemented the concept of monads in functional programming in PHP.",
             "support": {
-                "issues": "https://github.com/endou-mame/php-monad/issues",
-                "source": "https://github.com/endou-mame/php-monad/tree/v1.0.2"
+                "issues": "https://github.com/endoumame/php-monad/issues",
+                "source": "https://github.com/endoumame/php-monad/tree/v1.0.2"
             },
             "time": "2026-02-16T14:27:39+00:00"
         }
@@ -347,16 +347,16 @@
             "time": "2024-05-06T16:37:16+00:00"
         },
         {
-            "name": "endou-mame/php-cs-fixer-config",
+            "name": "endoumame/php-cs-fixer-config",
             "version": "v8.4.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/endou-mame/php-cs-fixer-config.git",
+                "url": "https://github.com/endoumame/php-cs-fixer-config.git",
                 "reference": "25b14f2d1e0797be40248eeda8d68367471b9f47"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/endou-mame/php-cs-fixer-config/zipball/25b14f2d1e0797be40248eeda8d68367471b9f47",
+                "url": "https://api.github.com/repos/endoumame/php-cs-fixer-config/zipball/25b14f2d1e0797be40248eeda8d68367471b9f47",
                 "reference": "25b14f2d1e0797be40248eeda8d68367471b9f47",
                 "shasum": ""
             },
@@ -382,13 +382,13 @@
             "authors": [
                 {
                     "name": "Kakiuchi Shigenao",
-                    "email": "87973394+endou-mame@users.noreply.github.com"
+                    "email": "87973394+endoumame@users.noreply.github.com"
                 }
             ],
-            "description": "🛠 php-cs-fixer configuration for endou-mame.",
+            "description": "🛠 php-cs-fixer configuration for endoumame.",
             "support": {
-                "issues": "https://github.com/endou-mame/php-cs-fixer-config/issues",
-                "source": "https://github.com/endou-mame/php-cs-fixer-config/tree/v8.4.4"
+                "issues": "https://github.com/endoumame/php-cs-fixer-config/issues",
+                "source": "https://github.com/endoumame/php-cs-fixer-config/tree/v8.4.4"
             },
             "time": "2026-02-16T14:07:12+00:00"
         },

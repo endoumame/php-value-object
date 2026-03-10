@@ -91,5 +91,5 @@ final readonly class ProductCode extends StringValue
 
 ### 依存ライブラリ
 
-- `endou-mame/php-monad` - Result/Option 型（エラーハンドリング）
-- `endou-mame/php-cs-fixer-config` - コードスタイル設定
+- `endoumame/php-monad` - Result/Option 型（エラーハンドリング）
+- `endoumame/php-cs-fixer-config` - コードスタイル設定
